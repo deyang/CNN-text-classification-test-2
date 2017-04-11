@@ -61,7 +61,7 @@ Train:
 
 * Task 2: Change the code to use the pre-trained word vectors and keep it fixed during training
 
-* Bonus task: Change the code to use both the word embedding and the character emebdding
+* Bonus task: Change the code to use both the word embedding and the character embedding as two channels to the CNN
 
 
 ## References
